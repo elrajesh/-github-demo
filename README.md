@@ -1,2 +1,2 @@
-# -github-demo
+# github-demo
 first intro to github
